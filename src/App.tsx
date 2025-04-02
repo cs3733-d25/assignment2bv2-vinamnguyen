@@ -1,6 +1,7 @@
 import Title from './title.tsx';
 import Intro from './intro.tsx';
 import Hobby1 from './hobby1.tsx';
+import Hobby2 from './hobby2.tsx';
 import './App.css'
 
 const App = () => {
