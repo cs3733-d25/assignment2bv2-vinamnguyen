@@ -1,6 +1,7 @@
 import List1 from './list1.tsx';
 import Table1 from './table1.tsx';
 import Form1 from './form1.tsx';
+import nbabanner from '../assets/nbabanner.jpg'
 
 const Hobby1 = () => {
     return (
@@ -16,7 +17,7 @@ const Hobby1 = () => {
                 for other players like Nikola Jokić, LeBron James, Kevin Durant, etc. This and watching highlights of hoopers from past generations
                 is really cool.
             </p>
-            <img src="assets/nbabanner.jpg" alt="NBA Banner" width="500" />
+            <img src={nbabanner} alt="NBA Banner" width="500" />
 
             <List1 />
             <Table1 />

@@ -12,7 +12,7 @@ const Hobby2 = () => {
                 and love thinking about the numerous forms of magic and complex plots.
 
             </p>
-            <img src="assets/HobbyPhoto.jpg" alt="Reading Photo" width="640" />
+            <img src="../assets/HobbyPhoto.jpg" alt="Reading Photo" width="640" />
 
             <List2 />
             <Table2 />
