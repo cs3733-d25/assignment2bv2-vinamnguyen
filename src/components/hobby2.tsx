@@ -6,7 +6,9 @@ import HobbyPhoto from '../assets/HobbyPhoto.jpg'
 const Hobby2 = () => {
     return (
         <div>
+            <div className={"hobby_title2"}>
             <h2>Reading</h2>
+            </div>
             <div className={"hobby_intro2"}>
             <p>
                 The hobby that I am using for this project is reading.

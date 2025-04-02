@@ -1,20 +1,60 @@
 body{
 
 }
+
+.hobby_title2{
+  text-align: center;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+}
 .hobby_intro2 {
-  color: blue;
+  text-align: center;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
 }
 .form2{
-  text-align: center;
+
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
 }
 .hobby2-list{
-  text-align: left;
+  text-align: center;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
 }
 .list2-title{
-
+  text-align: center;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
 }
 .table2{
-
+  text-align: center;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
 }
 
 #root {
