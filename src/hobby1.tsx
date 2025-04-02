@@ -5,7 +5,7 @@ import Form1 from './form1';
 const Hobby1 = () => {
     return (
         <div>
-            <h2>Pottery</h2>
+            <h2>Basketball</h2>
             <p>
                 I consider basketball to be one of my favorite hobbies. More specifically, I love to watch NBA.
                 Seeing some of the most prolific and entertaining hoopers play every night brings joy into my life.
