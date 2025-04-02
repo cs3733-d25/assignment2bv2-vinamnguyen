@@ -1,11 +1,11 @@
-import List1 from './list1';
-import Table1 from './table1';
-import Form1 from './form1';
+import List1 from './list1.tsx';
+import Table1 from './table1.tsx';
+import Form1 from './form1.tsx';
 
 const Hobby1 = () => {
     return (
         <div>
-            <h2>Pottery</h2>
+            <h2>Basketball</h2>
             <p>
                 I consider basketball to be one of my favorite hobbies. More specifically, I love to watch NBA.
                 Seeing some of the most prolific and entertaining hoopers play every night brings joy into my life.
