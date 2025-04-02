@@ -1,3 +1,22 @@
+body{
+
+}
+.hobby_intro2 {
+  color: blue;
+}
+.form2{
+  text-align: center;
+}
+.hobby2-list{
+  text-align: left;
+}
+.list2-title{
+
+}
+.table2{
+
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;

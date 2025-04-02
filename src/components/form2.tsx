@@ -1,5 +1,6 @@
 const Form2 = () => {
   return (
+      <div className={"form2"}>
       <form action="#" method="post">
 
           <label htmlFor="first name">First Name:</label>
@@ -45,6 +46,7 @@ const Form2 = () => {
 
           <button type="submit">Submit</button>
       </form>
+      </div>
 
   )
 }
