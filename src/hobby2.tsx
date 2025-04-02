@@ -8,7 +8,8 @@ const Hobby2 = () => {
             <h2>Reading</h2>
             <p>
                 The hobby that I am using for this project is reading.
-                I read both physical books, as well as books under public review online.
+                I read both physical books, as well as books under public review online. I love the fantasy genre in all but a few permutations,
+                and love thinking about the numerous forms of magic and complex plots.
 
             </p>
             <img src="assets/HobbyPhoto.jpg" alt="Reading Photo" width="640" />
