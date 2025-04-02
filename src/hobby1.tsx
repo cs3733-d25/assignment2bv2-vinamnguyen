@@ -1,6 +1,6 @@
-import List1 from './list1';
-import Table1 from './table1';
-import Form1 from './form1';
+import List1 from './list1.tsx';
+import Table1 from './table1.tsx';
+import Form1 from './form1.tsx';
 
 const Hobby1 = () => {
     return (
