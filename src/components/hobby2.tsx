@@ -1,6 +1,7 @@
 import List2 from './list2.tsx';
 import Table2 from './table2.tsx';
 import Form2 from './form2.tsx';
+import HobbyPhoto from '../assets/HobbyPhoto.jpg'
 
 const Hobby2 = () => {
     return (
@@ -12,7 +13,7 @@ const Hobby2 = () => {
                 and love thinking about the numerous forms of magic and complex plots.
 
             </p>
-            <img src="../assets/HobbyPhoto.jpg" alt="Reading Photo" width="640" />
+            <img src={HobbyPhoto} alt="Reading Photo" width="640" />
 
             <List2 />
             <Table2 />
