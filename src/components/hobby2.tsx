@@ -19,9 +19,12 @@ const Hobby2 = () => {
             </p>
             </div>
             <img src={HobbyPhoto} alt="Reading Photo" width="640" />
+            <br/>
 
             <List2 />
+            <br/>
             <Table2 />
+            <br/>
             <Form2 />
         </div>
     );

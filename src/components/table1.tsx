@@ -1,6 +1,6 @@
 const Table1 = () => {
   return (
-      <table>
+      <table className="table1">
           <caption><h2>My Top 5 Greatest NBA Players of All Time By Position</h2></caption>
           <tr>
               <th>Point Guard</th>

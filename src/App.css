@@ -1,5 +1,61 @@
-body{
+.hobby1-list{
+  text-align: center;
+  border-radius: 25px;
+  background: #747bff;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+}
 
+.hobby1-info{
+  text-align: center;
+  border-radius: 25px;
+  background: #747bff;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+}
+
+.hobby1-title{
+  text-align: center;
+  border-radius: 25px;
+  background: #747bff;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+}
+
+.form1{
+  text-align: center;
+  border-radius: 25px;
+  background: #747bff;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+}
+
+.table1{
+  text-align: center;
+  border-radius: 25px;
+  background: #747bff;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+}
+
+.list1{
+  text-align: center;
+  border-radius: 25px;
+  background: #747bff;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
 }
 
 .hobby_title2{

@@ -5,8 +5,11 @@ import nbabanner from '../assets/nbabanner.jpg'
 
 const Hobby1 = () => {
     return (
-        <div>
-            <h2>Basketball</h2>
+        <div className="hobby1">
+            <div className="hobby1-title">
+                <h2>Basketball</h2>
+            </div>
+            <div className="hobby1-info">
             <p>
                 I consider basketball to be one of my favorite hobbies. More specifically, I love to watch NBA.
                 Seeing some of the most prolific and entertaining hoopers play every night brings joy into my life.
@@ -17,10 +20,14 @@ const Hobby1 = () => {
                 for other players like Nikola Jokić, LeBron James, Kevin Durant, etc. This and watching highlights of hoopers from past generations
                 is really cool.
             </p>
+            </div>
             <img src={nbabanner} alt="NBA Banner" width="500" />
+            <br/>
 
             <List1 />
+            <br/>
             <Table1 />
+            <br/>
             <Form1 />
         </div>
     );

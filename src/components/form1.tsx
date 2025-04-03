@@ -1,6 +1,6 @@
 const Form1 = () => {
     return (
-        <div>
+        <div className="form1">
             <h2>Questions?</h2>
             <form id="Questions">
                 <label htmlFor="fname">First Name:</label>

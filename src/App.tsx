@@ -10,6 +10,7 @@ const App = () => {
             <Title />
             <Intro name1="Vinam Nguyen" name2="Jack Morris" />
             <Hobby1 />
+            <br/>
             <Hobby2 />
         </div>
     );
